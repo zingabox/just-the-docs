@@ -35,7 +35,7 @@ In order to create a universe in Bebedio follow these steps:
 
 1. Go to [Bebedio](http://www.bebedio.com)
 
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
+1. PressAdd Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
 ```yaml
 remote_theme: pmarsceill/just-the-docs
 ```
