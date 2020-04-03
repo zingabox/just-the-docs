@@ -33,13 +33,19 @@ A universe is a 3D world in Bebedio. You can use Bebedio to create, modify, and 
 
 In order to create a universe in Bebedio follow these steps:
 
-1. Launch the [Create](http://www.bebedio.com/#/&app=your_universes) app by Bebedio
+1. Launch the [Create](http://www.bebedio.com/#/&app=your_universes){ target="_blank"} app by Bebedio
 
+2. Press the NEW button to create a new universe
+
+3. Name your universe and press OK
+
+{% comment %}
 1. PressAdd Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
 ```yaml
 remote_theme: pmarsceill/just-the-docs
 ```
 <small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
+{% endcomment %}
 
 ### Local installation: Use the gem-based theme
 
