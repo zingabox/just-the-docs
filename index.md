@@ -12,7 +12,7 @@ published: true
 # What is Bebedio
 {: .fs-9 }
 
-Bebedio is an application that lets you create and share 3D content.
+Bebedio is an application that lets you create and share 3D worlds.
 {: .fs-6 .fw-300 }
 
 
@@ -25,11 +25,15 @@ Bebedio is an application that lets you create and share 3D content.
 
 ## Getting started
 
-### Dependencies
+### What is a universe?
 
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
+A universe is a 3D world in Bebedio. You can use Bebedio to create, modify, and deploy universes.
 
-### Quick start: Use as a GitHub Pages remote theme
+### Creating a universe
+
+In order to create a universe in Bebedio follow these steps:
+
+1. Go to [Bebedio](http://www.bebedio.com)
 
 1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
 ```yaml
