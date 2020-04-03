@@ -12,10 +12,10 @@ published: true
 # What is Bebedio
 {: .fs-9 }
 
-Bebedio is an application that lets you create and share 3D content. The content you create can be seen as a 3D website on desktop computers and mobile phones.
+Bebedio is an application that lets you create and share 3D content.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}   [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
