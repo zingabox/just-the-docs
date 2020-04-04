@@ -17,7 +17,7 @@
   line-height: 1.5;
   color: $link-color;
   text-decoration: none;
-  vertical-align: baseline;
+  vertical-align: middle;//changed by jafet because it was baseline instead
   cursor: pointer;
   background-color: $base-button-color;
   border-width: 0;
