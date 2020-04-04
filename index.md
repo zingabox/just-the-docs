@@ -47,7 +47,7 @@ remote_theme: pmarsceill/just-the-docs
 <small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
 {% endcomment %}
 
-### Adding objects to a universe
+### Adding objects to your universe
 
 Follow these steps to start adding 3D objects to a universe.
 
