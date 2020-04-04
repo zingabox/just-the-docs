@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Configuration
+title: Sharing 3D
 nav_order: 2
+published: true
 ---
 
-# Configuration
+# Sharing 3D
 {: .no_toc }
 
 
