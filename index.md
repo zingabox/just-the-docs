@@ -33,7 +33,7 @@ A universe is a 3D world in Bebedio. You can use Bebedio to create, modify, and 
 
 In order to create a universe in Bebedio follow these steps:
 
-1. Launch the [Create](http://www.bebedio.com/#/&app=your_universes){: target="_blank"} app by Bebedio
+1. Launch the [Create](http://www.bebedio.com/#/&app=your_universes){: .btn .btn-primary .fs-2 .mb-4 .mb-md-0 .mr-2 target="_blank"} app by Bebedio
 
 2. Press `NEW` to create a new universe
 
