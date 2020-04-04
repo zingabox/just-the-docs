@@ -47,7 +47,9 @@ remote_theme: pmarsceill/just-the-docs
 <small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
 {% endcomment %}
 
-### Local installation: Use the gem-based theme
+### Adding objects to a universe
+
+Follow these steps to start adding 3D objects to a universe.
 
 1. Install the Ruby Gem
 ```bash
