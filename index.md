@@ -12,7 +12,7 @@ published: true
 # What is Bebedio
 {: .fs-9 }
 
-Bebedio is an application that lets you create and share 3D worlds. Here is an example of a universe called [Hello World](http://www.bebedio.com/#/&app=your_universes&asset=Hello World&ownerId=3xSpIszu5gP83khk6GvOFsdp7vR2&camera_pitch=0&camera_yaw=0&enclosure_position=0,0,0){: .btn .btn-secondary .fs-2 .mb-4 .mb-md-0 .mr-2 target="_blank"}.
+Bebedio is an application that lets you create and share 3D worlds. Here is an example of a universe called [Hello World](http://www.bebedio.com/#/&app=your_universes&asset=Hello World&ownerId=3xSpIszu5gP83khk6GvOFsdp7vR2&camera_pitch=0&camera_yaw=0&enclosure_position=0,0,0){: .btn .btn-primary .fs-2 .mb-4 .mb-md-0 .mr-2 target="_blank"}.
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}  
